@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Enables to login with WordPress with user e-mail address.
+Enable login in WordPress only with user e-mail address.
 
 == Description ==
 
