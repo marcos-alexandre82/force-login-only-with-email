@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-06 00:02+0000\n"
+"PO-Revision-Date: 2020-07-05 21:07-0300\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: force-login-with-email.php:71
+msgid "Force Login With E-mail"
+msgstr "Forçar acesso com e-mail"
+
+#: force-login-with-email-options.php:70
+msgid "Enable login with e-mail"
+msgstr "Habilita acesso com email"
+
+#: force-login-with-email-options.php:79
+msgid ""
+"Uncheck to restore default WordPress login authentication (with username)."
+msgstr ""
+"Desmarque para restaurar a autenticação de acesso padrão do WordPress (com "
+"nome de usuário)."
+
+#: force-login-with-email-options.php:86
+msgid "Enable login with username"
+msgstr "Habilita acesso com nome de usuário"
+
+#: force-login-with-email-options.php:95
+msgid ""
+"If 'Enable login with e-mail' is off, this will be enabled automatically."
+msgstr ""
+"Se ‘Ativar login com e-mail’ estiver desmarcado, isso será ativado "
+"automaticamente."
+
+#: force-login-with-email-options.php:102
+msgid "Enable login with 'admin' username"
+msgstr "Ative o acesso com o nome de usuário ‘admin’"
+
+#: force-login-with-email-options.php:111
+msgid ""
+"This option is applied only if both options above are on. Uncheck to enhance "
+"security."
+msgstr ""
+"Esta opção é aplicada apenas se as duas opções acima estiverem ativadas. "
+"Desmarque para melhorar a segurança."
+
+#. Name of the plugin
+msgid "Force Login With Email"
+msgstr "Forçar acesso com e-mail"
+
+#. Description of the plugin
+msgid "Enable login in WordPress only with user e-mail address."
+msgstr "Ativa o acesso ao WordPress somente com o e-mail do usuário."
+
+#. URI of the plugin
+msgid "https://github.com/marcos-alexandre82/force-login-with-email"
+msgstr "https://github.com/marcos-alexandre82/force-login-with-email"
+
+#. Author of the plugin
+msgid "MarcosAlexandre"
+msgstr "MarcosAlexandre"
+
+#. Author URI of the plugin
+msgid "https://marcosalexandre.dev/"
+msgstr "https://marcosalexandre.dev/"
