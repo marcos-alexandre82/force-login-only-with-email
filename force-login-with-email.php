@@ -3,7 +3,7 @@
  * Plugin Name: Force Login With Email
  * Plugin URI:        https://github.com/marcos-alexandre82/force-login-with-email
  * GitHub Plugin URI: https://github.com/marcos-alexandre82/force-login-with-email
- * Description: Enables to login with WordPress with user e-mail address.
+ * Description: Enable login in WordPress only with user e-mail address.
  * Version:     1.0
  * Requires PHP:      5.6
  * Requires at least: 4.0
