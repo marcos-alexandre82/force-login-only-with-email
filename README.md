@@ -13,7 +13,7 @@ Enable login in WordPress only with user e-mail address.
 
 == Description ==
 
-Force Login With Email is a fork of the Email Login Auth plugin. It is a very simple WordPress plugin, which allows users to login with their account email address. Just install, activate it and try to re-login! You can also disable login with username for all users or for 'admin' only.
+**Force Login With Email** is a fork of the Email Login Auth plugin. It is a very simple WordPress plugin, which allows users to login with their account email address. Just install, activate it and try to re-login! You can also disable login with username for all users or for 'admin' only.
 
 = How to use =
 
@@ -33,7 +33,7 @@ Compatible since version 3.0.x of WooCommerce.
 
 How to install:
 
-1. In your WordPressu Dashboard, please go to Plugins -> Plugin Install.
+1. In your WordPress Dashboard, please go to Plugins -> Plugin Install.
 2. Search "Force Login With Email".
 3. Click on the "Install Now" button.
 4. After you can "Activate" the plugin in Plugins -> Installed.
