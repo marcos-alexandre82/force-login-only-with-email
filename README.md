@@ -5,7 +5,7 @@ Requires at least: 4.0
 Tested up to: 5.4.2
 WC requires at least: 3.0.0
 WC tested up to: 4.2.2
-Stable tag: __STABLE_TAG__
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -80,6 +80,12 @@ or
 
 == Changelog ==
 
-= 1.0.0 - 2020/07/13 =
+= 1.0.2 - 2020/07/13 =
+* Update banner
+
+= 1.0.1 - 2020/07/13 =
+* Update readme
+
+= 1.0.0 - 2020/07/04 =
 * Update plugin with Internationalization
 * First public release.
