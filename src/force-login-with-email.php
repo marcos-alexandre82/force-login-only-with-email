@@ -8,7 +8,7 @@
  * Requires PHP:      5.6
  * Requires at least: 4.0
  * WC requires at least: 3.0.0
- * WC tested up to: 4.2.2
+ * WC tested up to: 4.3.0
  * Author:      MarcosAlexandre
  * Author URI:        https://marcosalexandre.dev/
  * License:           GPL2
