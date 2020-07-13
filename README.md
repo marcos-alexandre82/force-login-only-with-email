@@ -50,8 +50,8 @@ The plugin settings you can find in WordPress Admin -> Options -> Force Login Wi
 
 You can ask questions by:  
 
-* Using our [forum on Github](https://github.com/marcos-alexandre82/force-login-with-email/issues).
-* Creating a topic in the [WordPress help forum](https://wordpress.org/support/plugin/force-login-with-email).
+* Using our [forum on Github](https://github.com/marcos-alexandre82/force-login-with-email/issues/).
+* Creating a topic in the [WordPress help forum](https://wordpress.org/support/plugin/force-login-with-email/).
 
 = Credits =
 
@@ -61,15 +61,15 @@ This plugin is a fork that implements internationalization and continues the exc
 
 = Banner: =
 
-* [Freepik](https://br.freepik.com/fotos-vetores-gratis/fundo).
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/fundo/).
 
 = Icon: =
 
-* [Freepik](https://br.freepik.com/fotos-vetores-gratis/negocio).
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/negocio/).
 
 = Contributors =
 
-You can contribute source code on our page at [GitHub](https://github.com/marcos-alexandre82/force-login-with-email/issues).
+You can contribute source code on our page at [GitHub](https://github.com/marcos-alexandre82/force-login-with-email/issues/).
 
 == Frequently Asked Questions ==
 
@@ -79,9 +79,6 @@ or
 * Go to Settings -> Force Login With Email, uncheck the "Enable login with e-mail" option and click "Save Changes".
 
 == Changelog ==
-
-= 1.0.1 - 2020/07/13 =
-* Update assets
 
 = 1.0.0 - 2020/07/04 =
 * Update plugin with Internationalization
