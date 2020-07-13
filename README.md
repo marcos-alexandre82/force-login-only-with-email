@@ -80,6 +80,9 @@ or
 
 == Changelog ==
 
+= 1.0.3 - 2020/07/13 =
+* Update banner and readme
+
 = 1.0.2 - 2020/07/13 =
 * Update banner
 
