@@ -61,7 +61,7 @@ This plugin is a fork that implements internationalization and continues the exc
 
 Banner:
 
-* [Freepik](https://br.freepik.com/fotos-vetores-gratis/fundo.
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/fundo).
 
 Icon:
 
