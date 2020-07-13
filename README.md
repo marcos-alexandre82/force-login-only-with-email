@@ -59,6 +59,14 @@ This plugin is a fork that implements internationalization and continues the exc
 
 * [Email Login Auth](https://wordpress.org/plugins/email-login-auth/).
 
+= Banner: =
+
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/fundo.
+
+= Icon: =
+
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/negocio).
+
 = Contributors =
 
 You can contribute source code on our page at [GitHub](https://github.com/marcos-alexandre82/force-login-with-email/issues).

@@ -4,7 +4,7 @@ Tags: email, login, authentication, username
 Requires at least: 4.0
 Tested up to: 5.4.2
 WC requires at least: 3.0.0
-WC tested up to: 4.2.2
+WC tested up to: 4.3.0
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -58,6 +58,14 @@ You can ask questions by:
 This plugin is a fork that implements internationalization and continues the excellent plugin developed by [Michal Stanke](https://profiles.wordpress.org/mikk_cz/) in:
 
 * [Email Login Auth](https://wordpress.org/plugins/email-login-auth/).
+
+Banner:
+
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/fundo.
+
+Icon:
+
+* [Freepik](https://br.freepik.com/fotos-vetores-gratis/negocio).
 
 = Contributors =
 
