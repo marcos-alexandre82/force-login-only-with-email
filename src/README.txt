@@ -22,7 +22,7 @@ Force Login With Email is a fork of the Email Login Auth plugin. It is a very si
 
 == Development ==
 
-This version of the ** Force Login With Email ** plugin was developed without any connection with the previous developer and we count on your help to improve the code and operation of this plugin.
+This version of the **Force Login With Email** plugin was developed without any connection with the previous developer and we count on your help to improve the code and operation of this plugin.
 
 = Compatibility =
 
@@ -80,6 +80,9 @@ or
 
 == Changelog ==
 
-= 1.0 - 2020/07/04 =
+= 1.0.1 - 2020/07/13 =
+* Update assets
+
+= 1.0.0 - 2020/07/04 =
 * Update plugin with Internationalization
 * First public release.
