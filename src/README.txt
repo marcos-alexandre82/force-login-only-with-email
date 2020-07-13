@@ -80,6 +80,6 @@ or
 
 == Changelog ==
 
-= 1.0.0 - 2020/07/04 =
+= 1.0.0 - 2020/07/13 =
 * Update plugin with Internationalization
 * First public release.

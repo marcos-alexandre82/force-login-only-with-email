@@ -9,7 +9,6 @@ TAG=$(sed -e "s/refs\/tags\///g" <<< $GITHUB_REF)
 
 # Replace the version in these 2 files.
 sed -i -e "s/__STABLE_TAG__/$TAG/g" ./src/readme.txt
-sed -i -e "s/__STABLE_TAG__/$TAG/g" ./readme.md
 sed -i -e "s/__STABLE_TAG__/$TAG/g" "./src/$PLUGIN_SLUG.php"
 
 # Get the SVN data from wp.org in a folder named `svn`
