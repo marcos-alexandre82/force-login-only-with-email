@@ -5,7 +5,7 @@ Requires at least: 4.0
 Tested up to: 5.4.2
 WC requires at least: 3.0.0
 WC tested up to: 4.3.0
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html/
 
@@ -79,6 +79,9 @@ or
 * Go to Settings -> Force Login With Email, uncheck the "Enable login with e-mail" option and click "Save Changes".
 
 == Changelog ==
+
+= 1.0.5 - 2020/07/13 =
+* Update version stable
 
 = 1.0.4 - 2020/07/13 =
 * Update banner title
